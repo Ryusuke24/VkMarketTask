@@ -1,0 +1,12 @@
+.quantityState {
+  padding: 0;
+  height: fit-content;
+
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.quantityCount {
+  font-size: 1.1rem;
+}

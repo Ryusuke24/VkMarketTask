@@ -1,0 +1,12 @@
+.removeButton {
+  align-self: flex-end;
+  border: none;
+  background-color: #333;
+  cursor: pointer;
+  &:hover {
+    padding: 10px;
+    border-radius: 10px;
+    color: red;
+    background-color: red;
+  }
+}

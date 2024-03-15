@@ -1,0 +1,18 @@
+.product {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 1rem;
+  border-radius: 10px;
+  box-shadow: 0 0 10px 0 rgba(255, 255, 255, 0.2);
+  margin: 1rem;
+  background-color: #333;
+}
+
+.removeButton {
+  align-self: flex-end;
+  border: none;
+  background-color: #333;
+  padding: 10px;
+  cursor: pointer;
+}

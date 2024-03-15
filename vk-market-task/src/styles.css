@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+}
+
+.App {
+  display: grid;
+  min-height: 100vh;
+  font-family: Rubik, sans-serif;
+  background-color: #242424;
+  color: white;
+  grid-template-columns: 3fr 1fr;
+}
